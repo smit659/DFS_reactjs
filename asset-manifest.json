@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DFS_reactjs/static/css/main.e509d3fa.css",
+    "main.js": "/DFS_reactjs/static/js/main.b187f465.js",
+    "static/js/787.001e509f.chunk.js": "/DFS_reactjs/static/js/787.001e509f.chunk.js",
+    "index.html": "/DFS_reactjs/index.html",
+    "main.e509d3fa.css.map": "/DFS_reactjs/static/css/main.e509d3fa.css.map",
+    "main.b187f465.js.map": "/DFS_reactjs/static/js/main.b187f465.js.map",
+    "787.001e509f.chunk.js.map": "/DFS_reactjs/static/js/787.001e509f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e509d3fa.css",
+    "static/js/main.b187f465.js"
+  ]
+}
