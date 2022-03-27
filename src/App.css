@@ -1,7 +1,17 @@
 .App {
-  text-align: center;
+ 
+  
 }
 
+.modal fade{
+  background-color: antiquewhite;
+}
+
+.new-user-btn {
+  margin: 2em;
+  position: absolute;
+  right:5em;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
